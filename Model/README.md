@@ -39,8 +39,3 @@ By using Logistic Regression I got
     Accuracy of training data: 89.77109214576862
     Accuracy of testing data: 87.22158536741495
  ``` 
-
-
-As accuracy of **Decission Tree Regressor** algorithm is more ie. 87.49% ~ 88%
-
-Hence this model is selected.
